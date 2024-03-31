@@ -1,1 +1,1 @@
-https://github.com/poi1nt/Moving-an-element/actions/workflows/WORKFLOW-FILE/badge.svg
+![CI](https://github.com/poi1nt/Moving-an-element/actions/workflows/WORKFLOW-FILE/badge.svg)

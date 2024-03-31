@@ -1,4 +1,4 @@
-name: Moving-an-element
+name: Moving_an_element
 
 on: [push, pull_request]
 
